@@ -4,8 +4,7 @@ import './index.css';
 import Properties from './components/properties';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-import { Container } from 'react-bootstrap';
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
